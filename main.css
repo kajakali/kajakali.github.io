@@ -6,9 +6,10 @@ body {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 78px;
   	font-family: Calibri, serif;
   	color: #450961;
+	text-align: center
 }
 
 h2 {
