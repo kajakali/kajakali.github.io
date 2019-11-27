@@ -3,6 +3,7 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
+	background-color: #e5adff;
 }
 
 h1 {
@@ -10,7 +11,7 @@ h1 {
   	font-family: Calibri, serif;
   	color: #450961;
 	text-align: center;
-	background-color: #e5adff;
+	
 }
 
 h2 {
@@ -20,7 +21,7 @@ h2 {
 
 
 .contents {
-	font-family: 'Trebuchet MS', Calibri, sans-serif;
+	font-family: Calibri, sans-serif;
  	padding: 250px 0;
 	margin: 30px;
 }
