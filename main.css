@@ -7,8 +7,8 @@ body {
 
 h1 {
 	font-size: 40px;
-  font-family: Calibri, serif;
-  color: #450961;
+  	font-family: Calibri, serif;
+  	color: #450961;
 }
 
 h2 {
@@ -19,7 +19,7 @@ h2 {
 
 .contents {
 	font-family: 'Trebuchet MS', Calibri, sans-serif;
-  padding: 250px 0;
+ 	padding: 250px 0;
 	margin: 30px;
 }
 
