@@ -7,16 +7,18 @@ body {
 }
 
 h1 {
-	font-size: 78px;
+	font-size: 4rem;
   	font-family: Calibri, serif;
   	color: #450961;
 	text-align: center;
+	background-color: red;
 	
 }
 
 h2 {
-	font-size: 36px;
+	font-size: 3rem;
 	color: #450961;
+	background-color: blue;
 }
 
 
@@ -27,12 +29,14 @@ h2 {
 }
 
 h3 {
-	font-size: 30px;
+	font-size: 2rem;
+	bacground-color:coral;
 	
 }
 
 
 p {
+	background-color: green;
 
 }
 
