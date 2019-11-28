@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-	font-size: 3rem;
+	font-size: 2.5rem;
 	color: #450961;
 	background-color: blue;
 	
@@ -25,7 +25,7 @@ h2 {
 
 
 h3 {
-	font-size: 2rem;
+	font-size: 1.5rem;
 	bacground-color:coral;
 	
 }
@@ -38,7 +38,7 @@ p {
 
 .contents {
 	font-family: Calibri, sans-serif;
-	width: 50%
+	width: 100%
 }
 
 
