@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
-	background-color: #ded4ff;
+	background-color: #f3f0ff;
 }
 
 h1 {
@@ -19,14 +19,10 @@ h2 {
 	font-size: 3rem;
 	color: #450961;
 	background-color: blue;
-	width: 50%
+	
 }
 
 
-.contents {
-	font-family: Calibri, sans-serif;
-
-}
 
 h3 {
 	font-size: 2rem;
@@ -40,9 +36,9 @@ p {
 
 }
 
-.contents a {
-	color: #00FFAA;
-	font-size: 24px;
-	text-decoration: none;
-	margin: 30;
+.contents {
+	font-family: Calibri, sans-serif;
+	width: 50%
 }
+
+
