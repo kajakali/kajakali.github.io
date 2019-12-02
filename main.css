@@ -11,14 +11,14 @@ h1 {
   	font-family: Calibri, serif;
   	color: #450961;
 	text-align: center;
-	background-color: red;
+	
 	
 }
 
 h2 {
 	font-size: 2.5rem;
 	color: #450961;
-	background-color: blue;
+	margin: 0 0 10px 0;
 	
 }
 
@@ -32,8 +32,7 @@ h3 {
 
 
 p {
-	background-color: green;
-
+	margin: 20px 0 0 0;
 }
 
 .contents {
