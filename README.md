@@ -1,1 +1,2 @@
-# kajakali.github.io
+### Frieda Jacobson
+# About Me
