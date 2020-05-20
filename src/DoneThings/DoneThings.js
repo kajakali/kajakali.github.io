@@ -44,6 +44,9 @@ import Box from '@material-ui/core/Box';
      return (
        <div>
            <h1>Frieda Jacobson</h1>
+           <p>https://www.linkedin.com/in/frieda-jacobson-483123140/
+           https://github.com/kajakali
+           </p>
            {this.state.showThingsIveDone
            ?         
            <Box>
