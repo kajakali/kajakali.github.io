@@ -12,7 +12,7 @@ class ReactComponent extends React.Component {
     return e(
         'p',
         { onClick: () => this.setState({ liked: true }) },
-        'I am a react component'
+        'Have a lovely day!'
     
       
     )
